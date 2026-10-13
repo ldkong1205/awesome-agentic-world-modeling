@@ -2126,6 +2126,7 @@ Benchmarks and evaluation suites for world models, grouped by world.
 + [**RoboCasa365: A Large-Scale Simulation Framework for Training and Benchmarking Generalist Robots**](https://arxiv.org/abs/2603.04356) (arXiv, 2026)
 + [**RoboFolDeX: A Physical-World Benchmark for Long-Horizon Robotic Manipulation of Deformable Objects**](https://arxiv.org/abs/2609.10243) (arXiv, 2026)
 + [**RoboInter1.5: A Holistic Intermediate Representation Suite for Embodied World Modeling and Robotic Manipulation**](https://arxiv.org/abs/2607.18709) (arXiv, 2026) [![Stars](https://img.shields.io/github/stars/InternRobotics/RoboInter?style=flat&logo=github&color=181717)](https://github.com/InternRobotics/RoboInter)
++ [**RoboQuest: Generalist Physical Agents that Search, Inspect and Test**](https://arxiv.org/abs/2610.10388) (arXiv, 2026) [![Stars](https://img.shields.io/github/stars/declare-lab/RoboQuest?style=flat&logo=github&color=181717)](https://github.com/declare-lab/RoboQuest)
 + [**RoboTrustBench: Benchmarking the Trustworthiness of Video World Models for Robotic Manipulation**](https://arxiv.org/abs/2606.01600) (arXiv, 2026)
 + [**RoboWM-Bench: A Benchmark for Evaluating World Models in Robotic Manipulation**](https://arxiv.org/abs/2604.19092) (arXiv, 2026) [![Stars](https://img.shields.io/github/stars/fffstrong/RoboWM-Bench?style=flat&logo=github&color=181717)](https://github.com/fffstrong/RoboWM-Bench)
 + [**SC3-Eval: Evaluating Robot Foundation Models via Self-Consistent Video Generation**](https://arxiv.org/abs/2606.18610) (arXiv, 2026)
