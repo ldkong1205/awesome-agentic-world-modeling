@@ -847,6 +847,7 @@ Methods rolling out multi-step futures that respect governing laws: long-horizon
 + [**DreamX-World 1.0: A General-Purpose Interactive World Model**](https://arxiv.org/abs/2606.16993) (arXiv, 2026) [![Stars](https://img.shields.io/github/stars/AMAP-ML/DreamX-World?style=flat&logo=github&color=181717)](https://github.com/AMAP-ML/DreamX-World)
 + [**Drift-Resistant Navigation World Model with Anchored Epipolar Guidance**](https://arxiv.org/abs/2605.24761) (arXiv, 2026)
 + [**DriftWorld: Fast World Modeling through Drifting**](https://arxiv.org/abs/2607.15065) (arXiv, 2026) [![Stars](https://img.shields.io/github/stars/Susie-Lu/driftworld?style=flat&logo=github&color=181717)](https://github.com/Susie-Lu/driftworld)
++ [**DRILL: Training World Models to Improve Policies, Not Predict Pixels**](https://arxiv.org/abs/2610.30814) (arXiv, 2026)
 + [**DriveArena: A Closed-Loop Generative Simulation Platform for Autonomous Driving**](https://arxiv.org/abs/2408.00415) (ICCV, 2024) [![Stars](https://img.shields.io/github/stars/PJLab-ADG/DriveArena?style=flat&logo=github&color=181717)](https://github.com/PJLab-ADG/DriveArena)
 + [**DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation**](https://arxiv.org/abs/2403.06845) (arXiv, 2024) [![Stars](https://img.shields.io/github/stars/f1yfisher/DriveDreamer2?style=flat&logo=github&color=181717)](https://github.com/f1yfisher/DriveDreamer2)
 + [**DriveDreamer-Policy: A Geometry-Grounded World-Action Model for Unified Generation and Planning**](https://arxiv.org/abs/2604.01765) (arXiv, 2026)
@@ -1723,6 +1724,7 @@ Methods rolling out multi-step futures that respect governing laws: long-horizon
 + [**Synthesizing world models for bilevel planning**](https://arxiv.org/abs/2503.20124) (Trans. Mach. Learn. Res., 2025)
 + [**Telecom World Models: Unifying Digital Twins, Foundation Models, and Predictive Planning for 6G**](https://arxiv.org/abs/2604.06882) (arXiv, 2026)
 + [**The Matrix: Infinite-Horizon World Generation with Real-Time Moving Control**](https://arxiv.org/abs/2412.03568) (arXiv, 2024)
++ [**Trace2World: Reconstructing App Worlds from Real Interaction Traces for Scalable GUI Agent Training**](https://arxiv.org/abs/2610.30792) (arXiv, 2026)
 + [**Training Agents Inside of Scalable World Models**](https://arxiv.org/abs/2509.24527) (arXiv, 2025)
 + [**Transformer World Model for Sample Efficient Multi-Agent Reinforcement Learning**](https://arxiv.org/abs/2506.18537) (arXiv, 2025)
 + [**Twin: Playing an Unknown Game with a Test-Time Digital Twin**](https://arxiv.org/abs/2608.14490) (arXiv, 2026) [![Stars](https://img.shields.io/github/stars/Alexyskoutnev/TWIN-ARC-AGI-3?style=flat&logo=github&color=181717)](https://github.com/Alexyskoutnev/TWIN-ARC-AGI-3)
@@ -1944,6 +1946,7 @@ Methods that design, execute, observe, and reflect — revising the model itself
 + [**VideoAgent: Self-Improving Video Generation**](https://arxiv.org/abs/2410.10076) (arXiv, 2024)
 + [**World Action Verifier: Self-Improving World Models via Forward-Inverse Asymmetry**](https://arxiv.org/abs/2604.01985) (arXiv, 2026)
 + [**World-Gymnast: Training Robots with Reinforcement Learning in a World Model**](https://arxiv.org/abs/2602.02454) (arXiv, 2026) [![Stars](https://img.shields.io/github/stars/world-gymnast/world-gymnast?style=flat&logo=github&color=181717)](https://github.com/world-gymnast/world-gymnast)
++ [**WorldMirror: Agentic Real-to-Sim Generation of Interactive Worlds from In-the-Wild Robot Demonstrations**](https://arxiv.org/abs/2610.31834) (arXiv, 2026)
 
 ### Digital World
 
