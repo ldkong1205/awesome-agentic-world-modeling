@@ -253,7 +253,7 @@ Methods learning local one-step operators: state inference, forward dynamics, ob
 + [**Latent Action Pretraining from Videos**](https://arxiv.org/abs/2410.11758) (arXiv, 2024)
 + [**Latent Action Pretraining Through World Modeling**](https://arxiv.org/abs/2509.18428) (arXiv, 2025) [![Stars](https://img.shields.io/github/stars/baheytharwat/lawm?style=flat&logo=github&color=181717)](https://github.com/baheytharwat/lawm)
 + [**Latent Action World Models for Control with Unlabeled Trajectories**](https://arxiv.org/abs/2512.10016) (arXiv, 2025)
-+ [**Latent evolving World Action Model**](https://arxiv.org/abs/2609.27455) (arXiv, 2026) [![Stars](https://img.shields.io/github/stars/XuejiFang/LeWAM?style=flat&logo=github&color=181717)](https://github.com/XuejiFang/LeWAM)
++ [**LeWAM: Latent evolving World Action Model**](https://arxiv.org/abs/2609.27455) (arXiv, 2026) [![Stars](https://img.shields.io/github/stars/XuejiFang/LeWAM?style=flat&logo=github&color=181717)](https://github.com/XuejiFang/LeWAM)
 + [**Latent Policy Steering with Embodiment-Agnostic Pretrained World Models**](https://arxiv.org/abs/2507.13340) (arXiv, 2025)
 + [**Latent Video Prediction Learns Better World Models**](https://arxiv.org/abs/2605.15618) (arXiv, 2026)
 + [**LaWAM: Latent World Action Models for Efficient Dynamics-Aware Robot Policies**](https://arxiv.org/abs/2606.15768) (arXiv, 2026)
