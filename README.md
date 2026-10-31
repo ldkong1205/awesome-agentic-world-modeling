@@ -1759,6 +1759,8 @@ Methods rolling out multi-step futures that respect governing laws: long-horizon
 + [**WorldCam: Interactive Autoregressive 3D Gaming Worlds with Camera Pose as a Unifying Geometric Representation**](https://arxiv.org/abs/2603.16871) (arXiv, 2026)
 + [**WorldCoder, a Model-Based LLM Agent: Building World Models by Writing Code and Interacting with the Environment**](https://arxiv.org/abs/2402.12275) (NeurIPS, 2024)
 + [**WorldGen: From Text to Traversable and Interactive 3D Worlds**](https://arxiv.org/abs/2511.16825) (arXiv, 2025)
++ [**WorldGPT: A Sora-Inspired Video AI Agent as Rich World Models from Text and Image Inputs**](https://arxiv.org/abs/2403.07944) (arXiv, 2024)
++ [**WorldGPT: Empowering LLM as Multimodal World Model**](https://arxiv.org/abs/2404.18202) (arXiv, 2024) [![Stars](https://img.shields.io/github/stars/ZJU4EmbodiedAI/WorldGPT?style=flat&logo=github&color=181717)](https://github.com/ZJU4EmbodiedAI/WorldGPT)
 + [**WorldKV: Efficient World Memory with World Retrieval and Compression**](https://arxiv.org/abs/2605.22718) (arXiv, 2026)
 + [**WorldPack: Compressed Memory Improves Spatial Consistency in Video World Modeling**](https://arxiv.org/abs/2512.02473) (arXiv, 2025)
 + [**WorldPlay: Towards Long-Term Geometric Consistency for Real-Time Interactive World Modeling**](https://arxiv.org/abs/2512.14614) (arXiv, 2025) [![Stars](https://img.shields.io/github/stars/Tencent-Hunyuan/HY-WorldPlay?style=flat&logo=github&color=181717)](https://github.com/Tencent-Hunyuan/HY-WorldPlay)
