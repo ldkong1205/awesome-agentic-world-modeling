@@ -56,6 +56,7 @@ Methods learning local one-step operators: state inference, forward dynamics, ob
 
 ### Physical World
 
++ [**Keeping JEPA World Models Plannable When Little of the Frame Moves**](https://arxiv.org/abs/2610.03137) (arXiv, 2026)
 + [**ω-0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation**](https://arxiv.org/abs/2608.06375) (arXiv, 2026)
 + [**3D Point World Models: Point Completion Enables More Accurate Dynamics Learning**](https://arxiv.org/abs/2607.00148) (arXiv, 2026) [![Stars](https://img.shields.io/github/stars/pvskand/3dpwm?style=flat&logo=github&color=181717)](https://github.com/pvskand/3dpwm)
 + [**A Compositional Object-Based Approach to Learning Physical Dynamics**](https://arxiv.org/abs/1612.00341) (ICLR, 2016)
@@ -508,6 +509,7 @@ Methods learning local one-step operators: state inference, forward dynamics, ob
 
 ### Digital World
 
++ [**Right Screen, Wrong Transition: World Models as Verifiers for GUI Agents**](https://arxiv.org/abs/2610.11942) (arXiv, 2026)
 + [**A Causal World Model Underlying Next Token Prediction: Exploring GPT in a Controlled Environment**](https://arxiv.org/abs/2412.07446) (ICML, 2024)
 + [**A Generalist Agent**](https://arxiv.org/abs/2205.06175) (Trans. Mach. Learn. Res., 2022)
 + [**A Simple Framework for Contrastive Learning of Visual Representations**](https://arxiv.org/abs/2002.05709) (ICML, 2020) [![Stars](https://img.shields.io/github/stars/google-research/simclr?style=flat&logo=github&color=181717)](https://github.com/google-research/simclr)
@@ -675,6 +677,8 @@ Methods rolling out multi-step futures that respect governing laws: long-horizon
 
 ### Physical World
 
++ [**Back on Track: Deployment-time Policy Improvement via World Model Planning**](https://arxiv.org/abs/2610.19579) (arXiv, 2026)
++ [**How Much Planning Is Enough? Reducing Search and Computation in World-Model Planning**](https://arxiv.org/abs/2610.08350) (arXiv, 2026)
 + [**τ_0-WM: A Unified Video-Action World Model for Robotic Manipulation**](https://arxiv.org/abs/2606.01027) (arXiv, 2026)
 + [**3D-Belief: Embodied Belief Inference via Generative 3D World Modeling**](https://arxiv.org/abs/2605.11367) (arXiv, 2026)
 + [**3D-VLA: A 3D Vision-Language-Action Generative World Model**](https://arxiv.org/abs/2403.09631) (ICML, 2024)
@@ -1577,6 +1581,7 @@ Methods rolling out multi-step futures that respect governing laws: long-horizon
 + [**ActWorld: From Explorable to Interactive World Model via Action-Aware Memory**](https://arxiv.org/abs/2606.17730) (arXiv, 2026)
 + [**Addressable Memory for Video World Models**](https://arxiv.org/abs/2608.07408) (arXiv, 2026)
 + [**Advancing Open-source World Models**](https://arxiv.org/abs/2601.20540) (arXiv, 2026) [![Stars](https://img.shields.io/github/stars/Robbyant/lingbot-world?style=flat&logo=github&color=181717)](https://github.com/Robbyant/lingbot-world)
++ [**WM-R1: Training GUI Agents to Reason and leverage World Models with Reinforcement Learning**](https://arxiv.org/abs/2608.27508) (arXiv, 2026)
 + [**Agent Learning via Early Experience**](https://arxiv.org/abs/2510.08558) (arXiv, 2025)
 + [**Agent Planning with World Knowledge Model**](https://arxiv.org/abs/2405.14205) (NeurIPS, 2024) [![Stars](https://img.shields.io/github/stars/zjunlp/WKM?style=flat&logo=github&color=181717)](https://github.com/zjunlp/WKM)
 + [**Agent World Model: Infinity Synthetic Environments for Agentic Reinforcement Learning**](https://arxiv.org/abs/2602.10090) (arXiv, 2026) [![Stars](https://img.shields.io/github/stars/Snowflake-Labs/agent-world-model?style=flat&logo=github&color=181717)](https://github.com/Snowflake-Labs/agent-world-model)
@@ -1950,6 +1955,7 @@ Methods that design, execute, observe, and reflect — revising the model itself
 
 ### Digital World
 
++ [**EvoBelief: Falsifiable World Models for Self-Improving LLM Agents**](https://arxiv.org/abs/2610.12789) (arXiv, 2026)
 + [**Active Intelligence in Video Avatars via Closed-loop World Modeling**](https://arxiv.org/abs/2512.20615) (arXiv, 2025)
 + [**AgentGym: Evolving Large Language Model-based Agents across Diverse Environments**](https://arxiv.org/abs/2406.04151) (arXiv, 2024) [![Stars](https://img.shields.io/github/stars/WooooDyy/AgentGym?style=flat&logo=github&color=181717)](https://github.com/WooooDyy/AgentGym)
 + [**Agentic Game Development as a Verifiable Trajectory Data Engine for Scaling World Models**](https://arxiv.org/abs/2608.25518) (arXiv, 2026) [![Stars](https://img.shields.io/github/stars/LanceZPF/cardinal-preview?style=flat&logo=github&color=181717)](https://github.com/LanceZPF/cardinal-preview)
@@ -2171,6 +2177,7 @@ Benchmarks and evaluation suites for world models, grouped by world.
 
 ### Digital
 
++ [**The GUI Is Not the State: Diagnosing State Aliasing in GUI World Models**](https://arxiv.org/abs/2609.32679) (arXiv, 2026)
 + [**4DWorldBench: A Comprehensive Evaluation Framework for 3D/4D World Generation Models**](https://arxiv.org/abs/2511.19836) (arXiv, 2025)
 + [**AgentBench: Evaluating LLMs as Agents**](https://arxiv.org/abs/2308.03688) (ICLR, 2024) [![Stars](https://img.shields.io/github/stars/THUDM/AgentBench?style=flat&logo=github&color=181717)](https://github.com/THUDM/AgentBench)
 + [**AndroidWorld: A Dynamic Benchmarking Environment for Autonomous Agents**](https://arxiv.org/abs/2405.14573) (ICLR, 2025) [![Stars](https://img.shields.io/github/stars/google-research/android_world?style=flat&logo=github&color=181717)](https://github.com/google-research/android_world)
